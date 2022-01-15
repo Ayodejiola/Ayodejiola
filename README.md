@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ayodejiola
-- 👀 I’m interested in AWS, Docker, Kubernetes, CI/CD, Cloud Computing, 
+- 👀 I’m interested in AWS, Docker, Kubernetes, CI/CD, Cloud Computing, Database Administration, SQL,
 - 🌱 I’m currently learning DevOps, AWS, Docker, Policy
 - 💞️ I’m looking to collaborate on EQS, EC2, etc
 - 📫 How to reach me ayo2corra@gmail.com
